@@ -1,0 +1,33 @@
+_repo: The-Practical-Distiller--13-An-Introduction-To-Making-Whiskey-Gin-Brandy-Spirits--amp-c.--amp__21252
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McHarry, Samuel
+    gutenberg_agent_id: '9803'
+    url: http://www.gutenberg.org/2009/agents/9803
+description: The Practical Distiller was first published in 1809 when spirit distillation
+  was legal in the United States. It describes the methods for making whiskey and
+  other forms of liquor from the 1600's onward. This book has some unique stories
+  about some of the old distilleries, and explains many things that were no doubt
+  helpful to the brewers of that day. Section one discussed yeast, how to know when
+  it is good or bad, how to renew it when it is sour, and the best yeast for daily
+  use. A second sect.
+gutenberg_bookshelf: Crafts
+gutenberg_issued: '2007-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21252'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TP'
+- !lcsh 'Distillation'
+title: "The Practical Distiller\r\nAn Introduction To Making Whiskey, Gin, Brandy,\
+  \ Spirits, &c. &c. of Better Quality, and in Larger Quantities, than Produced by\
+  \ the Present Mode of Distilling, from the Produce of the United States"
+url: http://www.gutenberg.org/ebooks/21252
